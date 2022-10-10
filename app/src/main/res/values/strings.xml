@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LargeTextParser</string>
+    <string name="main_button_text">Start</string>
+    <string name="sample_text_file_url">https://norvig.com/big.txt</string>
+    <string name="example_pattern" tools:ignore="TypographyEllipsis">*...*</string>
+    <string name="sample_text_file_url_2">https://www.gutenberg.org/cache/epub/69093/pg69093.txt</string>
+    <string name="sample_text_file_url_3" tools:ignore="TypographyDashes">https://drive.google.com/uc?export=download&amp;id=1yKyvKVv3IsI7z_y9D1JQkjH44bmYvian&amp;confirm=t&amp;uuid=0695dae2-aa32-4744-a02b-e1f7878bfafc</string>
+    <string name="sample_bin_file_url">https://speed.hetzner.de/1GB.bin</string>
+    <string name="fmt_main_label">Main</string>
+    <string name="fmt_results_label">Results</string>
+    <string name="results_menu_copy">Copy</string>
+    <string name="results_copy_success">Copied to clipboard</string>
+    <string name="results_parse_error">Error occurred</string>
+    <string name="results_parse_finish">Parsing done</string>
+    <string name="clipboard_copy_label">Text</string>
+</resources>
